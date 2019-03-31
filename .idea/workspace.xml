@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cfde2d9-f5cc-4995-8b5a-620ce2be117c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IDCardIdentify.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IDCardIdentify.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/IMG_6591.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/IMG_6592.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/IMG_6593.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/Image 2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/Image 3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/Image 4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/Image 5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/Image 6.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/Image 7.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/Image.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/back.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dst/test1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_6591.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_6592.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/IMG_6593.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Image 6.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Image 7.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Image.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/back.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/identify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
+            <state relative-caret-position="375">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -68,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirement.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -85,6 +63,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>djang</find>
+      <find>pd</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -295,12 +279,12 @@
       <workItem from="1553415764155" duration="216000" />
       <workItem from="1553516155118" duration="799000" />
       <workItem from="1554027087142" duration="86000" />
-      <workItem from="1554027175607" duration="241000" />
+      <workItem from="1554027175607" duration="1114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98148000" />
+    <option name="totallyTimeSpent" value="99021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,7 +297,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="548" y="23" width="892" height="822" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24117647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -329,7 +312,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020678" side_tool="true" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49793217" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49793217" weight="0.22328767" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -433,20 +416,20 @@
     <entry file="file://$PROJECT_DIR$/images/IMG_6592.JPG" />
     <entry file="file://$PROJECT_DIR$/images/IMG_6593.JPG" />
     <entry file="file://$PROJECT_DIR$/images/IMG_6591.JPG" />
-    <entry file="file://$PROJECT_DIR$/identify.py">
+    <entry file="file://$PROJECT_DIR$/requirement.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="63" lean-forward="true" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirement.txt">
+    <entry file="file://$PROJECT_DIR$/identify.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
